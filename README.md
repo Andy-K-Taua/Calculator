@@ -19,6 +19,9 @@ Tech stack HTML, JavaScript, CSS - Very simple calculator
 1. Clone the repository: `git clone https://github.com/Andy-K-Taua/Calculator.git`
 2. Terminal: `open index.html`
 
+## Live Demo
+[View Project Here](https://andy-k-taua.github.io/Calculator/)
+
 ## Contributing
 
 1. Fork the repository
